@@ -3,8 +3,6 @@
 ## About me
 ### My name is Ilya, I am third-year law student of Mosckow Aviation institute, Faculty of Applied Mathematics and Computer Science.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsmile123&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="Lunidep"/>
-
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
