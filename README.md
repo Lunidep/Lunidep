@@ -1,7 +1,7 @@
 ![Header](https://github.com/Lunidep/Lunidep/blob/main/assets/background.jpg)
 
 ## About me
-### My name is Ilya, I am third-year law student of Mosckow Aviation institute, Faculty of Applied Mathematics and Computer Science.
+### My name is Ilya, I am third-year student of Moscow Aviation institute, Faculty of Applied Mathematics and Computer Science.
 
 ## Languages and Tools
 
