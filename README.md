@@ -16,5 +16,3 @@
 ## My social
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/ippopovv)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=6296CC)](https://t.me/lunidep)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunidep&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
