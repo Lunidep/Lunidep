@@ -1,4 +1,4 @@
-![Header](https://github.com/Lunidep/Lunidep/blob/main/assets/background.jpg)
+<!-- ![Header](https://github.com/Lunidep/Lunidep/blob/main/assets/background.jpg)
 
 ## About me
 ### My name is Ilya, I am third-year student of Moscow Aviation institute, Faculty of Applied Mathematics and Computer Science.
@@ -16,3 +16,4 @@
 ## My social
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/ippopovv)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=6296CC)](https://t.me/lunidep)
+ -->
