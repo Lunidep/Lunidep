@@ -14,6 +14,6 @@ My name is Ilya, I am student of Moscow Aviation institute, Faculty of Applied M
 
 
 ### My social
-[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/ippopovv)
+[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=Vk&logoColor=6296CC)](https://vk.com/lunidep)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=6296CC)](https://t.me/lunidep)
 
